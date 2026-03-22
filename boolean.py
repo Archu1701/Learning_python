@@ -1,0 +1,12 @@
+a=True
+print(type(a))
+b=-5
+d=-0.009
+e=0
+f=""
+g="a"
+print(bool(b))
+print(bool(d))
+print(bool(e))
+print(bool(f))
+print(bool(g))

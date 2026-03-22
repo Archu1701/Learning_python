@@ -1,0 +1,8 @@
+a=range(10)
+print(a)
+b=list(range(15))
+print(b)
+c=tuple(range(5))
+print(c)
+d=list(range(2,10,2))
+print(d)
